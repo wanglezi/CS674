@@ -1,0 +1,1 @@
+/usr/bin/c++    -std=c++11 -O3 -DNDEBUG   CMakeFiles/ksparse_singleMachine.dir/main.cpp.o CMakeFiles/ksparse_singleMachine.dir/src/common.cpp.o CMakeFiles/ksparse_singleMachine.dir/src/solve.cpp.o CMakeFiles/ksparse_singleMachine.dir/src/topK.cpp.o  -o ksparse_singleMachine 

@@ -1,0 +1,7 @@
+cmake_minimum_required(VERSION 3.6)
+project(ksparse_singleMachine)
+include_directories(./include /usr/local/include/Eigen)
+set(CMAKE_CXX_FLAGS "${CMAKE_CXX_FLAGS} -std=c++11")
+set(CMAKE_RUNTIME_OUTPUT_DIRECTORY "./")
+set(SOURCE_FILES main.cpp include/common.h src/common.cpp include/solve.h src/solve.cpp include/topK.h src/topK.cpp)
+add_executable(ksparse_singleMachine ${SOURCE_FILES} include/common.h src/common.cpp include/solve.h include/topK.h src/topK.cpp)

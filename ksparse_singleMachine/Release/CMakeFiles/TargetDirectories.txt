@@ -1,0 +1,3 @@
+/home/lezi/ClionProjects/ksparse_singleMachine/Release/CMakeFiles/edit_cache.dir
+/home/lezi/ClionProjects/ksparse_singleMachine/Release/CMakeFiles/rebuild_cache.dir
+/home/lezi/ClionProjects/ksparse_singleMachine/Release/CMakeFiles/ksparse_singleMachine.dir

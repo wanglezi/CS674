@@ -1,0 +1,1 @@
+/usr/bin/c++    -std=c++11 -O3 -DNDEBUG   CMakeFiles/sparse_opt_parallel_single_machine.dir/main.cpp.o CMakeFiles/sparse_opt_parallel_single_machine.dir/src/common.cpp.o CMakeFiles/sparse_opt_parallel_single_machine.dir/src/solve.cpp.o CMakeFiles/sparse_opt_parallel_single_machine.dir/src/topK.cpp.o  -o sparse_opt_parallel_single_machine 
