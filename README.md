@@ -1,16 +1,16 @@
 # CS674
 You can use these codes to reproduce the results that I included in the paper. You are welcomed to modify the code, e.g tuning the paramters, to verify your own idea.
 
-ksparse_singleMachine is for DIHT algorithm (centralized optimization).
+ksparse_singleMachine is for DIHT algorithm (centralized optimization).\\
 sparse_opt_parallel_single_machine is for D-DIHT (distributed version on eight workers).
 
-Before running the code, you need to download the data for each and put the data in "./data" folder. Data can be downloaded by the following links:
-data for sparse_opt_parallel_single_machine:
+Before running the code, you need to download the data for each and put the data in "./data" folder. Data can be downloaded by the following links:\\
+data for sparse_opt_parallel_single_machine:\\
 https://www.dropbox.com/sh/uaspmpfjgz448si/AADHTe05QJPcjdrbTVv32FXKa?dl=0
 it contains "datalist" and "miniBatches", which should be put in ./sparse_opt_parallel_single_machine/data folder
 
-data for ksparse_singleMachine:
-https://www.dropbox.com/sh/1qkaaz42mq0w0v5/AAA3O7LHZHdtj1rgd543LGeba?dl=0
+data for ksparse_singleMachine:\\
+https://www.dropbox.com/sh/1qkaaz42mq0w0v5/AAA3O7LHZHdtj1rgd543LGeba?dl=0\\
 it contains "data_all.txt" which should be stored in ./ksparse_singleMachine/data folder
 
 run the binary code on command line:
